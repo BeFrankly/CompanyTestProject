@@ -1,7 +1,5 @@
 package com.mycompany;
-// erster Commentar 
-// zweiter Kommenar dev branch
-// dritter Kommentar master
+// This is a test
 public class ConsoleApp {
  
     public static void main(String[] args) {
